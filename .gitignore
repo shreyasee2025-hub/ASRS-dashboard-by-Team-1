@@ -1,0 +1,36 @@
+# Raw data - not needed by the dashboard, only by clean_data.py
+data/raw/
+data/qge-ASRS-e2f91f6/
+
+# Claude AI memory files
+.claude/
+
+# Submission and course documents (not part of the app)
+EDA_QUEST.pptx
+"Project1_DSA506 Spring 2026.pdf"
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local environment variables
+.env
+*.env
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# IDE files
+.vscode/
+.idea/
